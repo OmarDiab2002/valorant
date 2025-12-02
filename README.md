@@ -59,10 +59,9 @@ Hero tags for image + text transitions
 ---
 
 ## 📸 Screenshots
-
-| Login Screen | Signup Screen | Home Feed |
-|---------------|----------------|------------|
-| ![Fade](assets/screenshots/fade.png) | ![Gekko](assets/screenshots/gekko.png) | ![DeadLock](assets/screenshots/deadlock.png) |
+| Home Screen                          | Fade Screen                          | Gekko Screen                           | Deadlock Screen                              | Breach Screen                            |
+| ------------------------------------ | ------------------------------------ | -------------------------------------- | -------------------------------------------- | ---------------------------------------- |
+| ![Home](assets/screenshots/home.png) | ![Fade](assets/screenshots/fade.png) | ![Gekko](assets/screenshots/gekko.png) | ![Deadlock](assets/screenshots/deadlock.png) | ![Breach](assets/screenshots/breach.png) |
 
 ---
 
