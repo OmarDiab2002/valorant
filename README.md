@@ -62,7 +62,7 @@ Hero tags for image + text transitions
 
 | Login Screen | Signup Screen | Home Feed |
 |---------------|----------------|------------|
-| ![Login](assets/screenshots/fade.jpg) | ![Signup](assets/screenshots/gekko.jpg) | ![Home](assets/screenshots/deadlock.jpg) |
+| ![Fade](assets/screenshots/fade.png) | ![Gekko](assets/screenshots/gekko.png) | ![DeadLock](assets/screenshots/deadlock.png) |
 
 ---
 
