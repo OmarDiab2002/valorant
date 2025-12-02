@@ -1,16 +1,87 @@
-# valorant
+🎮 Valorant Agents App
 
-A new Flutter project.
+A beautiful Flutter application that lets users explore Valorant agents with smooth animations, gradient UI cards, hero transitions, and detailed agent info screens.
 
-## Getting Started
+✨ Features
+🔥 1. Stunning Home Screen
 
-This project is a starting point for a Flutter application.
+The home screen lists Valorant agents in a clean grid layout with:
+✔️ Gradient-colored agent cards
+✔️ Hero animations for smooth transitions
+✔️ Responsive design (adapts to all screen sizes)
 
-A few resources to get you started if this is your first Flutter project:
+🎭 2. Agent Card (PlayerWidget)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Each agent card includes:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌈 Dual-color gradient background
+
+🖼️ High-quality agent image using Hero animations
+
+📝 Agent name with beautiful typography
+
+👉 Clickable cards that navigate to the details screen
+
+📄 3. Agent Details Screen
+
+The agent details page displays everything about the chosen agent:
+
+🖼️ Full-screen hero animation of the agent
+
+📘 Agent description
+
+⭐ List of abilities with custom icons
+
+🎨 Fully theme-matching gradient background
+
+🔙 Beautiful transparent AppBar with back navigation
+
+🧩 Reusable components (PlayerWidget)
+
+🎨 4. Beautiful Gradients & Custom Theme
+
+The app uses a custom set of colors (AppColors) to maintain:
+
+Consistent UI
+
+Smooth color transitions
+
+Vivid Valorant-inspired theme
+
+⚡ 5. Smooth Navigation
+
+Navigator.pushReplacementNamed() for clean navigation
+
+Named routes for better code management
+
+Hero tags for image + text transitions
+
+---
+
+## 📸 Screenshots
+
+| Login Screen | Signup Screen | Home Feed |
+|---------------|----------------|------------|
+| ![Login](assets/screenshots/fade.jpg) | ![Signup](assets/screenshots/gekko.jpg) | ![Home](assets/screenshots/deadlock.jpg) |
+
+---
+
+🛠️ Technologies Used
+
+Flutter (Dart)
+
+Material Design UI
+
+Hero Animations
+
+Responsive Layouts
+
+Custom UI Components
+
+---
+## ⚙️ Getting Started
+```bash
+git clone https://github.com/OmarDiab2002/valorant.git
+cd facebook
+flutter pub get
+flutter run
