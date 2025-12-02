@@ -81,6 +81,6 @@ Custom UI Components
 ## ⚙️ Getting Started
 ```bash
 git clone https://github.com/OmarDiab2002/valorant.git
-cd facebook
+cd valorant
 flutter pub get
 flutter run
